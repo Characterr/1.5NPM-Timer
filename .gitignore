@@ -18,3 +18,7 @@ webpack.config.js
 *.lock
 .gitattributes
 .eslintrc.js
+.husky/pre-commit
+.eslintrc.js
+.eslintrc.js
+.husky/pre-commit

@@ -31,7 +31,6 @@ module.exports = {
         "/*.md",
         "src",
         "public/assets/scripts/bundle.js",
-        
     ],
 
 }

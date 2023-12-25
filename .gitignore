@@ -17,3 +17,4 @@ prettier.config.js
 webpack.config.js
 *.lock
 .gitattributes
+.eslintrc.js

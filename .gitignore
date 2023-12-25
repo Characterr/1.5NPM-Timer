@@ -19,6 +19,3 @@ webpack.config.js
 .gitattributes
 .eslintrc.js
 .husky/pre-commit
-.eslintrc.js
-.eslintrc.js
-.husky/pre-commit

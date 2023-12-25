@@ -22,7 +22,10 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
-        // "semi": "off"
+        // semi: 0,
+        // "off" або 0 - вимкнути правило
+        // "warn"або 1-  попередження (не впливає на код виходу)
+        // "error"або 2- помилка (код виходу 1 при спрацьовуванні)
     },
     ignorePatterns: [
         "/*.js",
@@ -32,5 +35,4 @@ module.exports = {
         "src",
         "public/assets/scripts/bundle.js",
     ],
-
 }

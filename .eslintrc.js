@@ -26,7 +26,7 @@ module.exports = {
     },
     ignorePatterns: [
         "/*.js",
-        "/*.json",
+        //"/*.json",
         "/*.lock",
         "/*.md",
         "src",

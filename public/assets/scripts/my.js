@@ -1,1 +1,1 @@
-console.log('Check pre-commit!');
+console.log('Check pre-commit');

@@ -29,7 +29,7 @@ module.exports = {
     '/*.json',
     '/*.lock',
     '/*.md',
-    'src',
-    'public/assets/scripts/bundle.js',
+    // 'src',
+    'docs/assets/scripts/bundle.js',
   ],
 };

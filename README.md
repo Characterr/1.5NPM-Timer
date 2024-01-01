@@ -2,7 +2,7 @@
 
 ## Revision
 
-You can view it at https://github.com/characterr. Or by downloading it to your disk and running the index.html file in any browser of your choice.
+You can view it at https://characterr.github.io/1.5NPM-Timer/. Or by downloading it to your disk and running the index.html file in any browser of your choice.
 
 ## Description of the project
 

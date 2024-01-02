@@ -7,11 +7,11 @@
   "license": "MIT",
   "scripts": {
     "dev:assets": "webpack --watch",
-    "dev": "live-server --open=./public/ --host=localhost --watch=./public/",
+    "dev": "live-server --open=./docs/ --host=localhost --watch=./docs/",
     "build": "NODE_ENV=production webpack",
     "prepare": "npx crlf --set=LF node_modules/.bin/live-server",
-    "myLintPreCommit": "npx eslint public/**/*.js --color",
-    "PreCommitFix": "npx eslint public/**/*.js --fix"
+    "myLintPreCommit": "npx eslint docs/**/*.js --color",
+    "PreCommitFix": "npx eslint docs/**/*.js --fix"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",

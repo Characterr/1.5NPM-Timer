@@ -87,7 +87,7 @@ function timer(parent) {
        * @param {*} parentElem Parent element
        */
   function toDrawTimer(parentElem) {
-    inscription = createElem('h2', 'Вкажіть час в минутах', 'inscription');
+    inscription = createElem('h2', 'Вкажіть час в хвилинах', 'inscription');
     const wrap = createElem('div', '', 'wrap');
     input = createElem('input', '0', 'input');
     input.type = 'number';
